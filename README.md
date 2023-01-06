@@ -1,6 +1,6 @@
 # Introduction 
 TODO: Testing for PacLife Spec Run issue
-# Getting Started
+# Getting Started Now
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
 1.	Installation process
 2.	Software dependencies
